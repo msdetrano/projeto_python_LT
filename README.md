@@ -67,3 +67,4 @@ python -m beerlog
 
 Se apareceu `Hello from beerlog` então está tudo certo.
 # projeto_python_LT
+# Brabogit push -u origin maingit push -u origin main
