@@ -67,4 +67,4 @@ python -m beerlog
 
 Se apareceu `Hello from beerlog` então está tudo certo.
 
-# vamosspfc # brabo
+# Ultima Edição no arquivo - 08/06/2022 às 16h35min
